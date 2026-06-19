@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background: #fceabb; 
+background: -webkit-linear-gradient(to right, #00dbf8, #fbbbfc);  
+background: linear-gradient(to right, #00f8be, #ebbbfc); 
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+h1{
+    text-align: center;
+    color:#000000;
+    font-size:50px;
+}
+p,ul{
+    text-align: center;
+    color:#000000;
+    font-size:20px;
+}
+#selectors{
+    text-align:center;
+    color:#000000;
+    font-size:20px;
+}
+.class{
+    text-align: center;
+    color:#000000;
+    font-size:20px;
+}
