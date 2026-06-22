@@ -5,8 +5,7 @@
 }
 body{
 background: #fceabb; 
-background: -webkit-linear-gradient(to right, #00dbf8, #fbbbfc);  
-background: linear-gradient(to right, #00f8be, #ebbbfc); 
+background-image: url("https://media.geeksforgeeks.org/wp-content/cdn-uploads/20211001052649/CSSex-min.png");
 background-repeat: no-repeat;
 background-size: cover;
 height: 100vh;
@@ -14,20 +13,20 @@ height: 100vh;
 h1{
     text-align: center;
     color:#000000;
-    font-size:50px;
+    font-size:100px;
 }
-p,ul{
+p,ol{
     text-align: center;
     color:#000000;
-    font-size:20px;
+    font-size:40px;
 }
 #selectors{
     text-align:center;
     color:#000000;
-    font-size:20px;
+    font-size:40px;
 }
 .class{
     text-align: center;
     color:#000000;
-    font-size:20px;
+    font-size:40px;
 }
