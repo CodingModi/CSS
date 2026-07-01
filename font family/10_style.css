@@ -1,0 +1,91 @@
+body{
+    background-color:#f4f4f4;
+    font-size:18px;
+    margin:20px;
+}
+
+
+
+h1 {
+    text-align:center;
+    color:darkblue;
+
+}
+
+p{
+
+    background:white;
+padding:15px;
+    margin:15px;
+    color: darkslateblue;
+}
+
+.lato{
+
+ font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.noto{
+    font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+.poppins{
+    font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-thin{
+    font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.tirra{
+    font-family: "Tirra", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.Bpmf{
+    font-family: "Bpmf Zihi Kai Std", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.black{
+
+    font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bitcount{
+    font-family: "Bitcount Ink", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.playwrite{
+    font-family: "Playwrite", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+    
+
+
+
+.Assistant{
+
+
+    font-family: "Assistant", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
